@@ -1,0 +1,10 @@
+en el archivo de test 1 no esta agregado una libreria para que corra la parte medica
+las librerias son:
+import cv2 as cv
+import sys
+import os
+import numpy as np
+from matplotlib import pyplot as plt
+from scipy.io import loadmat
+import pydicom as dicom
+import nrrd
